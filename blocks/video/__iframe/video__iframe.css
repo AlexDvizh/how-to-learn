@@ -4,6 +4,7 @@
   position: relative;
   left: 0;
   bottom: -50px;
+  border: 0;
 }
 
 .video__iframe:nth-of-type(2n) {
